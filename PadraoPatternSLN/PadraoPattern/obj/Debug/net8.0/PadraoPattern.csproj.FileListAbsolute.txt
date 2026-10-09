@@ -1,0 +1,14 @@
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\bin\Debug\net8.0\PadraoPattern.exe
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\bin\Debug\net8.0\PadraoPattern.deps.json
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\bin\Debug\net8.0\PadraoPattern.runtimeconfig.json
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\bin\Debug\net8.0\PadraoPattern.dll
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\bin\Debug\net8.0\PadraoPattern.pdb
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.AssemblyInfoInputs.cache
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.AssemblyInfo.cs
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.dll
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\refint\PadraoPattern.dll
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.pdb
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\PadraoPattern.genruntimeconfig.cache
+C:\Users\tarde.cetcc\Desktop\PadraoPatternSLN\PadraoPattern\obj\Debug\net8.0\ref\PadraoPattern.dll
